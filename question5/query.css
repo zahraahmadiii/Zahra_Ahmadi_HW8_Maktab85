@@ -1,0 +1,11 @@
+
+@media  only screen and (max-width: 1070px) {
+
+    .container{
+        display: block;
+        height: fit-content;
+       
+        
+    }
+    
+}
