@@ -1,0 +1,147 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.container{
+  width: 100%;
+  min-height: 100%;
+  scroll-behavior: smooth;
+
+}
+.header{
+    background-color: rgb(46, 46, 46);
+    color: white;
+    height: 13rem;
+    display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    
+  
+}
+.headerp{
+   text-align: center;
+   line-height: 20px;
+  
+}
+p{
+    font-size:small;
+}
+.btn{
+    width: 7rem;
+    height: 2.5rem;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    border-radius: 1px;
+    border: 1px solid rgb(77, 77, 77);
+  
+}
+h2{
+    padding-top:1.5rem;
+}
+.sec1{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(235, 235, 235);  
+   
+}
+.secP{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+     
+} 
+.p1{
+    width: 340px;
+}
+.p2{
+    width: 340px;
+}
+    
+h4{
+    padding-top: 1rem;
+    margin-bottom: 15px;
+}
+
+.sec2{
+
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    padding-top: 1rem;
+    background-color: rgb(27, 27, 27);
+    padding-bottom: 1rem;
+    padding-left: 22rem;
+    padding-right: 22rem;
+ 
+}
+h5{
+    padding-bottom: 1rem;
+}
+.WMT{
+    background-color: white;
+    width: 200px;
+    height: fit-content;
+    padding-top: 2rem;
+    text-align: center;
+    padding-bottom: 2.5rem;
+}
+
+.sec3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 9rem; 
+}
+.sec3P{
+    text-align: center;
+    line-height: 20px;
+}
+h3{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.sec4{
+     display: flex;
+     flex-direction: row;
+     height: 11rem;
+}
+.contact{
+    background-color:rgb(64, 164, 231) ;
+    color: white;
+    width: 50%;
+    height: 11rem;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+
+}
+.about{
+    background-color: rgb(46, 46, 46);
+    color: white;
+    width:  50%;
+    height: 11rem;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+
+}
+.footer{
+    background-color: black;
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+}
+.foot1{
+    color: white;
+    font-size: 1rem;
+    padding-top: 1.5rem;
+}
+.foot2{
+    color: white;
+    font-size: 1rem;
+    padding-top: 1.5rem;
+}

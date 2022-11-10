@@ -1,0 +1,45 @@
+@media  only screen and (max-width: 1070px) {
+
+ 
+    .headerP{
+        margin-left: 40px;
+    }
+    .secP{
+        display: flex;
+        flex-direction: column;
+        height: fit-content;
+        gap: 10px;
+    }
+    .sec2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-left: 10rem;
+        padding-right: 10rem;
+    }
+    .sec3{
+        margin-left: 30px;
+    }
+    
+    .headerp{
+        font-size: 10px;
+     }
+     .sec3P{
+        font-size: 10px;
+        
+    }
+    .contact{
+        padding-left: 20px;
+    }
+    .about{
+        padding-left: 20px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    
+}
